@@ -2,7 +2,8 @@
 Fork from Pelican built in `simple` theme.
 
 ## Features
-- Simple and Light.
+- Concise and Light.
+- Support Latex math.
 - Built in [utterances](https://utteranc.es) comment system.
 
 ## Configuration
