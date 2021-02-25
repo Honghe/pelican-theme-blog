@@ -10,3 +10,5 @@ Fork from Pelican built in `simple` theme.
 # publishconf.py
 UTTERANCES_REPONAME = "<repo name>"
 ```
+
+![](./capture.png)
